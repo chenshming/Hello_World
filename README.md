@@ -1,6 +1,6 @@
 # Hello World (DevOps Flow)
 
-![CI](https://github.com/<you>/<repo>/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/chenshming/Hello_World/actions/workflows/ci.yml/badge.svg)
 
 Minimal template for the assignment:
 - Python prints "Hello, world"
